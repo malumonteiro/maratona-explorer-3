@@ -1,4 +1,3 @@
-# maratona-explorer-3 da ROCKETSEAT.
-Cardápio online.
+# maratona-explorer-3 from ROCKETSEAT.
 
-Utilizando HTML e CSS puro.
+Learning HTML and CSS.
